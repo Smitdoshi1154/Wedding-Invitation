@@ -14,7 +14,7 @@
 With the divine grace of the almighty,
 inviting you and your family to elder sister's wedding to be held on **26th January at [Ras Resort](https://maps.app.goo.gl/SUhtgE2y3TwfXyXL6), Silvassa, Daman & Diu from 11 AM** onwards.
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/Smitdoshi1154/Wedding-Invitation/blob/d09988ee724753d2a537a9f8dfd10c8a2b9ca6b5/invitation/Rajvi%20%26%20Vatsal.pdf) the Invitation card
 
 - Find [venue](https://maps.app.goo.gl/SUhtgE2y3TwfXyXL6) on Google map
 
