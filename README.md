@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: JAN 26, 2025 <br> <a href="https://vrinlove.netlify.app/">https://vrinlove.netlify.app/</a></h1>
+<p align="center"><a href="vrinlove.netlify.app"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="vrinlove.netlify.app">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: JAN 26, 2025 <br> <a href="https://vrinlove.netlify.app/">https://vrinlove.netlify.app/</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://vrinlove.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation) [![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://vrinlove.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://vrinlove.netlify.app/"><img src="https://raw.githubusercontent.com/Smitdoshi1154/Wedding-Invitation/8894c7e314119dceb6d8cd17182b1fd406d76215/assets/Beige%20%26%20Green%20Feminine%20Elegant%20Circle%20Floral%20Logo-5_page-0001.jpg" /></a>
 </details>
 
 With the divine grace of the almighty,
