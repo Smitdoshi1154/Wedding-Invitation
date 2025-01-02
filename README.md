@@ -8,7 +8,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://vrinlove.netlify.app/"><img src="https://raw.githubusercontent.com/Smitdoshi1154/Wedding-Invitation/8894c7e314119dceb6d8cd17182b1fd406d76215/assets/Beige%20%26%20Green%20Feminine%20Elegant%20Circle%20Floral%20Logo-5_page-0001.jpg" /></a>
+  <a href="https://vrinlove.netlify.app/"><img src="assets/img/VRlogo.jpg" /></a>
 </details>
 
 With the divine grace of the almighty,
