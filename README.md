@@ -1,28 +1,24 @@
 
 <p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: JAN 26, 2025 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
+<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: JAN 26, 2025 <br> <a href="https://vrinlove.netlify.app/">https://vrinlove.netlify.app/</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation) [![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://vrinlove.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation) [![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
 ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://vrinlove.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
-inviting you and your family to elder sister's wedding to be held on **26th January at [Ras Resort](https://maps.app.goo.gl/SUhtgE2y3TwfXyXL6), Silvassa, Daman & Diu from 11 AM** onwards.
+inviting you and your family to elder sister's wedding to be held on **26th January at [Ras Resort](https://maps.app.goo.gl/SUhtgE2y3TwfXyXL6), Silvassa, Dadra Nagar Havelli from 11 AM** onwards.
 
 - [Download](https://github.com/Smitdoshi1154/Wedding-Invitation/blob/d09988ee724753d2a537a9f8dfd10c8a2b9ca6b5/invitation/Rajvi%20%26%20Vatsal.pdf) the Invitation card
 
 - Find [venue](https://maps.app.goo.gl/SUhtgE2y3TwfXyXL6) on Google map
 
-- Visit the [website](https://sonali.netlify.app/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+- Visit the [website](https://vrinlove.netlify.app/) for more details
 
 ```js
 
@@ -39,7 +35,7 @@ const weddingVenue = new Location('Ras Resort, Silvassa');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://vrinlove.netlify.app/')
     );
 })();
 
